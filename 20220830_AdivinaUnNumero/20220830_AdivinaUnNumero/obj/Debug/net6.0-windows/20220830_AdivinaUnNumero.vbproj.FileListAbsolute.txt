@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\20220830_AdivinaUnNumero\20220830_AdivinaUnNumero\obj\Debug\net6.0-windows\20220830_AdivinaUnNumero.vbproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\20220830_AdivinaUnNumero\20220830_AdivinaUnNumero\obj\Debug\net6.0-windows\_20220830_AdivinaUnNumero.Form1.resources
+C:\Users\Admin\source\repos\20220830_AdivinaUnNumero\20220830_AdivinaUnNumero\obj\Debug\net6.0-windows\20220830_AdivinaUnNumero.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\20220830_AdivinaUnNumero\20220830_AdivinaUnNumero\obj\Debug\net6.0-windows\20220830_AdivinaUnNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\20220830_AdivinaUnNumero\20220830_AdivinaUnNumero\obj\Debug\net6.0-windows\20220830_AdivinaUnNumero.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\20220830_AdivinaUnNumero\20220830_AdivinaUnNumero\obj\Debug\net6.0-windows\20220830_AdivinaUnNumero.AssemblyInfo.vb
+C:\Users\Admin\source\repos\20220830_AdivinaUnNumero\20220830_AdivinaUnNumero\obj\Debug\net6.0-windows\20220830_AdivinaUnNumero.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\20220830_AdivinaUnNumero\20220830_AdivinaUnNumero\bin\Debug\net6.0-windows\20220830_AdivinaUnNumero.exe
+C:\Users\Admin\source\repos\20220830_AdivinaUnNumero\20220830_AdivinaUnNumero\bin\Debug\net6.0-windows\20220830_AdivinaUnNumero.deps.json
+C:\Users\Admin\source\repos\20220830_AdivinaUnNumero\20220830_AdivinaUnNumero\bin\Debug\net6.0-windows\20220830_AdivinaUnNumero.runtimeconfig.json
+C:\Users\Admin\source\repos\20220830_AdivinaUnNumero\20220830_AdivinaUnNumero\bin\Debug\net6.0-windows\20220830_AdivinaUnNumero.dll
+C:\Users\Admin\source\repos\20220830_AdivinaUnNumero\20220830_AdivinaUnNumero\bin\Debug\net6.0-windows\20220830_AdivinaUnNumero.pdb
+C:\Users\Admin\source\repos\20220830_AdivinaUnNumero\20220830_AdivinaUnNumero\obj\Debug\net6.0-windows\20220830_AdivinaUnNumero.dll
+C:\Users\Admin\source\repos\20220830_AdivinaUnNumero\20220830_AdivinaUnNumero\obj\Debug\net6.0-windows\refint\20220830_AdivinaUnNumero.dll
+C:\Users\Admin\source\repos\20220830_AdivinaUnNumero\20220830_AdivinaUnNumero\obj\Debug\net6.0-windows\20220830_AdivinaUnNumero.pdb
+C:\Users\Admin\source\repos\20220830_AdivinaUnNumero\20220830_AdivinaUnNumero\obj\Debug\net6.0-windows\20220830_AdivinaUnNumero.genruntimeconfig.cache
+C:\Users\Admin\source\repos\20220830_AdivinaUnNumero\20220830_AdivinaUnNumero\obj\Debug\net6.0-windows\ref\20220830_AdivinaUnNumero.dll
